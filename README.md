@@ -8,6 +8,7 @@ Start building with Ionic!
 [Getting Started with Ionic](http://ionicframework.com/getting-started/)
 * $ npm install -g cordova ionic
 * $ ionic start Hotproduct tabs
+* $ npm install -g ios-sim
 
 ## Adding more platforms :
 
