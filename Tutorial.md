@@ -5,7 +5,7 @@ Start building with Ionic!
 
 [Getting Started with Ionic](http://ionicframework.com/getting-started/)
 * $ npm install -g cordova ionic
-* $ ionic start TinderClone tabs
+* $ ionic start Hotproduct tabs
 
 ## Adding more platforms :
 
