@@ -6,9 +6,9 @@
 
 ## Let's get started
 To install Cordova, make sure you have [Node.js](https://nodejs.org/en/) installed, then run
-
+```bash
 * $ sudo npm install -g cordova
-
+```
 ## Install Ionic
 
 To install [ionic](http://ionicframework.com/docs/guide/installation.html), simply run:
