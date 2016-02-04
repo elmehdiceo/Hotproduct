@@ -15,7 +15,7 @@ To install [ionic](http://ionicframework.com/docs/guide/installation.html), simp
 
 * $ sudo npm install -g ionic
 
-Start building with Ionic!
+## Create the project
 
 [Getting Started with Ionic](http://ionicframework.com/getting-started/)
 * $ npm install -g cordova ionic
