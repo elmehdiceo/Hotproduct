@@ -1,5 +1,5 @@
 # Hotproduct
-Clone of Tinder for the hottest producthunt.com project
+Building Hybrid Apps with AngularJS and Ionic Clone of Tinder using Producthunt API
 
 ![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/gif.gif)
 
