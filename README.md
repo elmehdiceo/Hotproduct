@@ -1,9 +1,10 @@
 # Hotproduct
-Building Hybrid Apps with AngularJS and Ionic Clone of Tinder using Producthunt API
+## Creating Hybrid App with AngularJS and Ionic 
+### Tinder Clone using Producthunt API
 
 ![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/gif.gif)
 
-# Hotproduct
+## Hotproduct
 Clone of Tinder for the hottest producthunt.com project using ionic framework and Angular JS
 
 Start building with Ionic!
