@@ -1,4 +1,4 @@
-# Hotproduct
+# Hotproduct - Tinder Clone
 ## Creating Hybrid App with AngularJS and Ionic 
 ### Tinder Clone using Producthunt API
 
