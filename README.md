@@ -35,7 +35,7 @@ Start building with Ionic!
 
 
 
-![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%201.jpg)
-![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%202.jpg)
-![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%203.jpg)
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%201.jpg =250x)
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%202.jpg =250x)
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%203.jpg =250x)
 
