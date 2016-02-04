@@ -18,10 +18,11 @@ To install [ionic](http://ionicframework.com/docs/guide/installation.html), simp
 ## Create the project :
 
 [Getting Started with Ionic](http://ionicframework.com/getting-started/)
+```bash
 * $ npm install -g cordova ionic
 * $ ionic start Hotproduct tabs
 * $ npm install -g ios-sim
-
+```
 ## Configure Platforms :
 
 * $ ionic platform add android
