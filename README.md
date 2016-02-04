@@ -15,26 +15,24 @@ To install [ionic](http://ionicframework.com/docs/guide/installation.html), simp
 
 * $ sudo npm install -g ionic
 
-## Create the project
+## Create the project :
 
 [Getting Started with Ionic](http://ionicframework.com/getting-started/)
 * $ npm install -g cordova ionic
 * $ ionic start Hotproduct tabs
 * $ npm install -g ios-sim
 
-## Adding more platforms :
+## Configure Platforms :
 
 * $ ionic platform add android
 * $ ionic platform add wp8
 * $ ionic platform add ios
-
 
 ## Building our platforms :
 
 * $ ionic build android
 * $ ionic build ios
 * $ ionic build wp8
-
 
 ## Emulate our platforms :
 
