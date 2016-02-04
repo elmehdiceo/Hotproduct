@@ -51,7 +51,7 @@ To install [ionic](http://ionicframework.com/docs/guide/installation.html), simp
 ```
 
 
-![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%201.jpg)
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/gif.gif)
 
 
 ## License
