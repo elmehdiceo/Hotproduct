@@ -1,6 +1,8 @@
 # Hotproduct
 Clone of Tinder for the hottest producthunt.com project
 
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/gif.gif)
+
 # Hotproduct
 Clone of Tinder for the hottest producthunt.com project using ionic framework and Angular JS
 
@@ -32,8 +34,8 @@ Start building with Ionic!
 * $ ionic emulate wp8
 
 
-![alt tag](https://raw.github.com/mlaidouni/Hotproduct/gif.gif)
-![alt tag](https://raw.github.com/mlaidouni/Hotproduct/5.5-inch (iPhone 6+) - Screenshot 1.jpg)
-![alt tag](https://raw.github.com/mlaidouni/Hotproduct/5.5-inch (iPhone 6+) - Screenshot 2.jpg)
-![alt tag](https://raw.github.com/mlaidouni/Hotproduct/5.5-inch (iPhone 6+) - Screenshot 3.jpg)
+
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%201.jpg)
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%202.jpg)
+![alt tag](https://github.com/mlaidouni/Hotproduct/blob/master/5.5-inch%20(iPhone%206+)%20-%20Screenshot%203.jpg)
 
