@@ -15,7 +15,7 @@ To install [ionic](http://ionicframework.com/docs/guide/installation.html), simp
 
 * $ sudo npm install -g ionic
 
-## Create the project :
+## Create our project :
 
 [Getting Started with Ionic](http://ionicframework.com/getting-started/)
 ```bash
@@ -27,7 +27,7 @@ To install [ionic](http://ionicframework.com/docs/guide/installation.html), simp
 ```bash
 * $ npm install -g ios-sim
 ```
-## Configure Platforms :
+## Configure & Adding our Platforms :
 ```bash
 * $ ionic platform add android
 ```
